@@ -125,6 +125,7 @@ body {
   margin-bottom: 10px;
   font-weight: 400;
   color: #fff;
+  align-items: center;
 }
 
 .scontent h3 {
@@ -132,6 +133,7 @@ body {
   font-weight: 600;
   margin: 0;
   color: #a4acc4;
+  align-items: center;
 }
 
 .sicon {
